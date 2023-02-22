@@ -1,4 +1,6 @@
-# Soundmonster's layout for Corne
+# Aperture layout for corne, based on soundmonster
+
+QMK firmware for Corne keyboard inspired on Aperture laboratories (TM)
 
 Features:
 
@@ -10,4 +12,3 @@ Features:
 * Mac-friendly (Command and Option on the thumbs)
 * Vim-friendly (Esc, `:` and Ctrl on the thumbs)
 * Full per-key RGB Matrix support out of the box (you still have to go through the nightmare of soldering yourself though 😉)
-
