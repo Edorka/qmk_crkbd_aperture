@@ -1,5 +1,14 @@
 # Aperture layout for corne, based on soundmonster
 
+=How to install=
+
+Add aperture as a corne keyboard keymap on your existing qmk firmware:
+
+```
+cd qmk_firmware/keyboards/crkbd/keymaps
+git submodule add git@github.com:Edorka/qmk_crkbd_aperture.git aperture
+```
+
 QMK firmware for Corne keyboard inspired on Aperture laboratories (TM)
 
 Features:
